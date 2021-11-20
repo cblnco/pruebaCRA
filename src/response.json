@@ -1,0 +1,23 @@
+{
+  "players": [
+    {
+      "name": "Lalin Canallin",
+      "playerType": "FIRST",
+      "isMyTurn": true,
+      "board": {
+        "pits": [6, 6, 6, 6, 6, 6],
+        "bigPit": 0
+      }
+    },
+    {
+      "name": "Dyno",
+      "playerType": "SECOND",
+      "isMyTurn": false,
+      "board": {
+        "pits": [6, 6, 6, 6, 6, 6],
+        "bigPit": 0
+      }
+    }
+  ],
+  "gameEnded": false
+}
